@@ -10,7 +10,7 @@
 
   
 ### Some Skills🤟
-HTML5 | CSS3 | CSS Module | Material UI | Metodologia BEM | Responsive  | Mobile First |  JavaScript | TypeScript | React | React Native | Next.js | Redux toolkit | jQuery | Git |Consumo de APIs | Frontend | English
+HTML5 | CSS3 | CSS Module | Material UI | Metodologia BEM | Responsive  | Mobile First |  JavaScript | TypeScript | React | React Native | Next.js | Redux toolkit | jQuery | Git | Consume APIs | Frontend | English
 
 
 ### Get in touch
