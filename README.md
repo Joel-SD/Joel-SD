@@ -14,6 +14,7 @@ HTML5 | CSS3 | CSS Module | Material UI | Metodologia BEM | Responsive  | Mobile
 
 
 ### Get in touch
+  - LinkedIn: linkedin.com/in/joel-sd/
   - Twitter: twitter.com/E_xO1738
   - Instagram: instagram.com/enrique__xo/
   
