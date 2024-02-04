@@ -4,7 +4,7 @@
 
 
 ### By now!!💥
-  I am working with frameworks like React, Next.js, Angular and React Native. I work and at the same time I learn in courses about these frameworks, in addition to the fact that in each challenge I learn new things.
+  I am working with librarys like React, Next.js, Angular and React Native. I work and at the same time I learn in courses about these librarys, in addition to the fact that in each challenge I learn new things.
   
   My repositories are not up to date because I've been a bit busy, but soon I will bring new projects with JavaScript frameworks.
 
