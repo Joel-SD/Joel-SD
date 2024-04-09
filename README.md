@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-I am a Software Developer, with two years of experience focusing on front-end development of mobile and web applications.
+I'm a Software Developer focusing on front-end development of mobile and web applications.
 
-I am working with libraries like React, Next.js, React Native, Angular and Ionic, bringing innovative ideas to real products in agile environments, having direct and effective communication with the product owner.
+I'm working with tecnologies like React, Next.js, React Native, Java(Spring-boot), SQL, etc... bringing innovative ideas to real products in agile environments, having direct and effective communication with the team members.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joel-sd&label=Profile%20views&color=0e75b6&style=flat" alt="joel-sd" /> </p>
 
